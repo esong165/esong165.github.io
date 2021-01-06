@@ -7,7 +7,7 @@
 
 [Here](https://github.com/esong165/esong165.github.io/tree/main#esong165githubio) is the repository.
 
-[Here](/.) is the Readme.
+[Here](./README.md) is the Readme.
 
 As UCSD's CSE Department says:
 
