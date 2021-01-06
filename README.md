@@ -11,7 +11,7 @@ As UCSD's CSE Department says:
 
 >Start early and start often.
 
-```
+```Java
 if(startEarly && startOften){
     success = true;
 }
