@@ -27,10 +27,10 @@ My *favorite* programming language is ~~Python~~ **Java**. `System.out.println("
 
 Additionally, I am familiar with:
 
-1) C
-2) C#
-3) C++
-4) Assembly
+1. C
+2. C#
+3. C++
+4. Assembly
 
 I have used the following technologies:
 * Linux
