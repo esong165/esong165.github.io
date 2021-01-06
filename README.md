@@ -11,7 +11,7 @@ As UCSD's CSE Department says:
 
 >Start early and start often.
 
-```Java
+```java
 public boolean success(boolean startEarly, boolean startOften){
   return (startEarly && startOften);
 }
