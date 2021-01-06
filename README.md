@@ -38,5 +38,5 @@ I have used the following technologies:
 TODO:
 - [x] Finish this intro to markdown
 - [ ] Continue learning web development
-- [ ] (\Optional) Add a GitHub theme to this page
-- [ ] (\Optional) Add a custom domain name
+- [ ] Add a GitHub theme to this page
+- [ ] Add a custom domain name
