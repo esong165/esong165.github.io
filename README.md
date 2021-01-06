@@ -7,7 +7,7 @@
 
 [Here](https://github.com/esong165/esong165.github.io/tree/main#esong165githubio) is the Readme for this file.
 
-[Here](../README.md) is the current page.
+[Here](/README.md) is the current page.
 
 As UCSD's CSE Department says:
 
