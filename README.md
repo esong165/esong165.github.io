@@ -7,8 +7,6 @@
 
 [Here](https://github.com/esong165/esong165.github.io/tree/main#esong165githubio) is the repository.
 
-[Here](/README.md) is this site.
-
 As UCSD's CSE Department says:
 
 >Start early and start often.
@@ -23,6 +21,8 @@ else{
 ```
 
 My *favorite* programming language is ~~Python~~ **Java**. `System.out.println("Hello, world!");`
+
+[Here](/jW4dnFtA_400x400.jpg) is a picture of the logo.
 
 Additionally, I am familiar with:
 
