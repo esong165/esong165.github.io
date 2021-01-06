@@ -5,9 +5,9 @@
 
 [LinkedIn](https://www.linkedin.com/in/eric-song-a1207b1b5/)
 
-[Here](https://github.com/esong165/esong165.github.io/tree/main#esong165githubio) is the Readme for this file.
+[Here](https://github.com/esong165/esong165.github.io/tree/main#esong165githubio) is the repository.
 
-[Here](/.) is the current page.
+[Here](/.) is the Readme.
 
 As UCSD's CSE Department says:
 
