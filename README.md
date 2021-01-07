@@ -21,7 +21,7 @@ public boolean success(boolean startEarly, boolean startOften){
 ### Programming Experience
 My *favorite* programming language is ~~Python~~ **Java**. `System.out.println("Hello, world!");`
 
-[Here](./jW4dnFtA_400x400.jpg) is a picture of the logo.
+[Here](/jW4dnFtA_400x400.jpg) is a picture of the logo.
 
 Additionally, I am familiar with:
 
