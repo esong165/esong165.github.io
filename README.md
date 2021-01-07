@@ -5,7 +5,7 @@
 
 [LinkedIn](https://www.linkedin.com/in/eric-song-a1207b1b5/)
 
-[Here](https://github.com/esong165/esong165.github.io/tree/main#ProgrammingExperience) is a link to my Programming Experience section.
+[Here](https://github.com/esong165/esong165.github.io/tree/main#programming-experience) is a link to my Programming Experience section.
 
 ### My Favorite Quote
 As UCSD's CSE Department says:
