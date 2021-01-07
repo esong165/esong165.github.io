@@ -8,7 +8,7 @@ My *favorite* programming language is ~~Python~~ **Java**. `System.out.println("
 
 ![UCSD CSE Building](https://studyabroad.ucsd.edu/_images/majors-maps/major-modules/cse-building.jpg)
 
-[LinkedIn](https://www.linkedin.com/in/eric-song-a1207b1b5/)
+[Link to the UCSD CSE webpage](https://cse.ucsd.edu/)
 
 ### My Favorite Quote
 
