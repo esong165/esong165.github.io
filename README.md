@@ -3,16 +3,12 @@
 
 My *favorite* programming language is ~~Python~~ **Java**. `System.out.println("Hello, world!");`
 
-- [esong165.github.io](#esong165githubio)
-  - [Eric Song's User Page](#eric-songs-user-page)
-    - [My Favorite Quote](#my-favorite-quote)
-    - [Programming Experience](#programming-experience)
+  - [My Favorite Quote](#my-favorite-quote)
+  - [Programming Experience](#programming-experience)
 
 ![UCSD CSE Building](https://studyabroad.ucsd.edu/_images/majors-maps/major-modules/cse-building.jpg)
 
 [LinkedIn](https://www.linkedin.com/in/eric-song-a1207b1b5/)
-
-[Here](#programming-experience) is a link to my Programming Experience section.
 
 ### My Favorite Quote
 
